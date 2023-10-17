@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://polymathic-demo.netlify.app"
+base_url = "https://main--polymathic-demo.netlify.app"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
