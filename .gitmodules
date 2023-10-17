@@ -1,0 +1,3 @@
+[submodule "themes/polymathic"]
+	path = themes/polymathic
+	url = https://github.com/anvlkv/polymathic
