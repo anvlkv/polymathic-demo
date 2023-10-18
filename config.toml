@@ -12,7 +12,17 @@ theme = "polymathic"
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = false
+highlight_code = true
 
 [extra]
 # Put all your custom variables here
+[extra.poly]
+app_name="polymathic demo"
+menu_order=[
+  "docs/_index.md",
+  "examples/_index.md"
+]
+social_outlink=[
+  {href="https://github.com/anvlkv/polymathic-demo", title="this repo on GitHub"},
+  {href="https://github.com/anvlkv/polymathic", title="polymathic on GitHub"}
+]
