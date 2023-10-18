@@ -24,5 +24,6 @@ menu_order=[
 ]
 social_outlink=[
   {href="https://github.com/anvlkv/polymathic-demo", title="this repo on GitHub"},
-  {href="https://github.com/anvlkv/polymathic", title="polymathic on GitHub"}
+  {href="https://github.com/anvlkv/polymathic", title="polymathic on GitHub"},
+  {href="https://a.nvlkv.xyz", title="Theme author"},
 ]

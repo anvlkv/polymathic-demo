@@ -6,6 +6,8 @@ weight=13
 
 # Styles
 
+This theme uses [`scss-reset`](https://www.npmjs.com/package/scss-reset).
+
 To customize theme styles you can define a configuration map. This will allow you to change all theme variables, along with those of [bulma](https://bulma.io/documentation/customize/variables/). 
 
 ## Styles config
