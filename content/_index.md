@@ -5,6 +5,8 @@ description="Docs & demo for polymathic, a Zola portfolio theme"
 
 # polymathic
 
+> The theme is in active development
+
 polymathic is a [Zola](https://www.getzola.org/) portfolio theme. 
 
 I made it for my own portfolio. The theme is called `polymathic`, inspired by individuals with a wide range of talents. The theme focuses on rich and consistent navigation experience, exposing the variety of topics to chose from, yet allowing the user to focus on a single thread of your story once they've made a choice. 
