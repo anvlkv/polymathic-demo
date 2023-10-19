@@ -1,6 +1,8 @@
 +++
 title="Implementation"
 description="Showing section with a default tile"
+[taxonomies]
+features=["Navigation", "Default"]
 +++
 
 ### `content/section/_index.md`

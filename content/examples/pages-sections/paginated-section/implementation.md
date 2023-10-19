@@ -2,6 +2,8 @@
 title="Implementation"
 description="Adding pagination"
 weight=0
+[taxonomies]
+features=["Navigation", "Default"]
 +++
 
 ```md

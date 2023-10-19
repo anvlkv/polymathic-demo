@@ -1,7 +1,8 @@
 +++
 title="Pop tile"
 weight=6
-[extra]
+[taxonomies]
+features=["Customize", "Navigation"]
 [extra.poly]
 pop=true
 +++
@@ -10,7 +11,6 @@ pop=true
     +++
     title="Default tile"
     weight=6
-    [extra]
     [extra.poly]
     pop=true
     +++

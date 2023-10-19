@@ -1,6 +1,8 @@
 +++
 title="assetCard"
 description="Show an asset card and open a modal with content"
+[taxonomies]
+features=["Rich content"]
 +++
 
 ``` markdown

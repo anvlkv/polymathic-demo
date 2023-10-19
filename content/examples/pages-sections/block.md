@@ -2,7 +2,8 @@
 title="Block preview page"
 description="What you see is a block. Click on it open the page"
 weight=0
-[extra]
+[taxonomies]
+features=["Customize", "Navigation"]
 [extra.poly]
 block=true
 +++
@@ -12,7 +13,6 @@ block=true
     title="Block preview page"
     description="What you see is a block. Click on it open the page"
     weight=0
-    [extra]
     [extra.poly]
     block=true
     +++

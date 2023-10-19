@@ -2,6 +2,8 @@
 title="Shortcodes"
 description="Shortcodes provided with the theme"
 weight=12
+[taxonomies]
+features=["Rich content"]
 +++
 
 # Shortcodes

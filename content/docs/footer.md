@@ -2,6 +2,8 @@
 title="Global footer"
 description="Footer content and out-links"
 weight=11
+[taxonomies]
+features=["Getting started", "Customize"]
 +++
 
 # Global footer
@@ -13,7 +15,6 @@ Site global footer displays expanded version of the complete site navigation plu
 You can add social out-links and more to your global footer. In your `config.toml` add:
 
 ```toml
-    [extra]
     [extra.poly]
     social_outlink = [
         {href="https://www.linkedin.com/", title="LinkedIn", icon=false},
@@ -25,7 +26,6 @@ You can add social out-links and more to your global footer. In your `config.tom
 To add an icons to links in footer add an [icon font](https://bulma.io/documentation/elements/icon/) to your project and set `icon="font-prefix icon-name"` in the link config. 
 
 ```toml
-    [extra]
     [extra.poly]
     social_outlink = [
         {href="https://www.linkedin.com/", title="LinkedIn", icon="fas fa-linkedin"},

@@ -2,11 +2,15 @@
 title="Styles"
 description="Configure and extend the theme styles"
 weight=13
+[taxonomies]
+features=["Customize"]
 +++
 
 # Styles
 
 This theme uses [`scss-reset`](https://www.npmjs.com/package/scss-reset).
+
+This theme uses [`animate.css`](https://www.npmjs.com/package/animate.css).
 
 To customize theme styles you can define a configuration map. This will allow you to change all theme variables, along with those of [bulma](https://bulma.io/documentation/customize/variables/). 
 
@@ -28,7 +32,6 @@ First you would need to create a config map. For example `sass/_config.scss`
 To change a preloaded font set `font_url` and update your `$theme-config:("font-family": 'My font', monospace);`.
 
 ```toml
-    [extra]
     [extra.poly]
     font_url="https://font.hosting.com"
 ```

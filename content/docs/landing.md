@@ -13,7 +13,6 @@ For example:
     +++
     title="Add a title"
     description="Optional description"
-    [extra]
     [extra.poly]
     hero="hero.png"
     +++

@@ -2,6 +2,8 @@
 title="Title and description"
 description="Using title and description fields from your page's front-matter"
 weight=3
+[taxonomies]
+features=["Rich content"]
 +++
 
 # Title and description

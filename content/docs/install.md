@@ -2,6 +2,8 @@
 title="Install"
 description="Adding Zola theme, installing dependencies"
 weight=0
+[taxonomies]
+features=["Getting started"]
 +++
 
 # Install

@@ -1,6 +1,8 @@
 +++
 title="heroCard"
 description="Emphasize your content."
+[taxonomies]
+features=["Rich content", "Navigation"]
 +++
 
 ``` markdown

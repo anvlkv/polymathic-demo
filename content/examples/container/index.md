@@ -153,7 +153,7 @@ int main() {
 
 ```
 
-Beyond their aesthetic beauty, fish play pivotal roles in ecological systems. As both predators and prey, they are vital components of food webs, maintaining the balance of aquatic ecosystems. Many fish species undergo remarkable migrations, like the Pacific salmon's epic journey upstream to spawn, a testament to nature's engineering. However, fish are not only objects of fascination but also critical resources. They are a crucial source of protein and nutrients for communities worldwide, providing sustenance for millions. Yet, the challenges they face are profound: overfishing, habitat degradation, and climate change threaten their survival, necessitating vigilant conservation and sustainable management.
+Beyond their aesthetic beauty, fish play pivotal roles in ecological systems. As both predators and prey, they are vital components of food webs, maintaining the balance of aquatic ecosystems. Many fish species undergo remarkable migrations, like the Pacific salmon's epic journey upstream to spawn, a testament to nature's engineering. However, fish are not only objects of fascination but also critical resources. They are a crucial source of protein and nutrients for communities worldwide, providing sustenance for millions. Yet, the challenges they face are profound: overfishing, habitat degradation, and climate change threaten their survival, necessitating vigilant conservation and sustainable management.Fish have also left an indelible mark on human culture and history. They feature prominently in myth and folklore, from the story of Jonah and the whale to the symbolism of fish in Christianity. In many Asian cultures, koi fish represent perseverance and success, while in Western art, fish have inspired countless masterpieces. The scientific study of fish, ichthyology, has unlocked the mysteries of their biology, behavior, and genetics, advancing our understanding of life itself.As we continue to explore the mysteries of the deep, from the enchanting coral reefs to the abyssal plains, fish remain both enigmatic and resilient, offering us an enduring connection to the beauty and complexity of our planet's aquatic ecosystems. Their role in nature and culture, their evolutionary history, and their contribution to human sustenance make them an endlessly fascinating and irreplaceable part of our world.
 
 {% heroCard(hero="DALL_E_2023-10-17_22.04.01.png", href="/") %}
 
@@ -164,7 +164,7 @@ Example image generated with Open AI, DALL·E
 {% end %}
 
 
-Fish have also left an indelible mark on human culture and history. They feature prominently in myth and folklore, from the story of Jonah and the whale to the symbolism of fish in Christianity. In many Asian cultures, koi fish represent perseverance and success, while in Western art, fish have inspired countless masterpieces. The scientific study of fish, ichthyology, has unlocked the mysteries of their biology, behavior, and genetics, advancing our understanding of life itself.
+Fish have also left an indelible mark on human culture and history. They feature prominently in myth and folklore, from the story of Jonah and the whale to the symbolism of fish in Christianity. In many Asian cultures, koi fish represent perseverance and success, while in Western art, fish have inspired countless masterpieces. The scientific study of fish, ichthyology, has unlocked the mysteries of their biology, behavior, and genetics, advancing our understanding of life itself.As we continue to explore the mysteries of the deep, from the enchanting coral reefs to the abyssal plains, fish remain both enigmatic and resilient, offering us an enduring connection to the beauty and complexity of our planet's aquatic ecosystems. Their role in nature and culture, their evolutionary history, and their contribution to human sustenance make them an endlessly fascinating and irreplaceable part of our world.
 
 {% heroCard(hero="DALL_E_2023-10-14_15.28.50_-_polymathic_icon_logo.png", href="/") %}
 
@@ -173,8 +173,6 @@ Fish have also left an indelible mark on human culture and history. They feature
 Example image generated with Open AI, DALL·E
 
 {% end %}
-
-As we continue to explore the mysteries of the deep, from the enchanting coral reefs to the abyssal plains, fish remain both enigmatic and resilient, offering us an enduring connection to the beauty and complexity of our planet's aquatic ecosystems. Their role in nature and culture, their evolutionary history, and their contribution to human sustenance make them an endlessly fascinating and irreplaceable part of our world.
 
 
 ```md 

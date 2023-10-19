@@ -2,9 +2,9 @@
 title="Docs"
 description="Configure and customize your theme"
 sort_by="weight"
-[extra]
 [extra.poly]
 page_block = true
+use_taxonomies=["features"]
 +++
 
 ### polymathic docs

@@ -2,6 +2,8 @@
 title="Thumbnails"
 description="Customize page and section thumbnails, create previews of your content"
 weight=4
+[taxonomies]
+features=["Customize"]
 +++
 
 # Thumbnails
@@ -17,7 +19,6 @@ To render all your previews as blocks in your `content/section/_index.md` add `p
 ```md
     +++
     title="Section title"
-    [extra]
     [extra.poly]
     page_block=true
     +++
@@ -28,7 +29,6 @@ To render all your previews as blocks in your `content/section/_index.md` add `p
 ```md
     +++
     title="Page title"
-    [extra]
     [extra.poly]
     block=false
     +++
@@ -39,7 +39,6 @@ To render all your previews as blocks in your `content/section/_index.md` add `p
 ```md
     +++
     title="Page title"
-    [extra]
     [extra.poly]
     pop=true
     +++

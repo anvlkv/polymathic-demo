@@ -2,6 +2,8 @@
 title="Brand"
 description="Customize your favicons, titles, and font"
 weight=1
+[taxonomies]
+features=["Getting started", "Customize"]
 +++
 
 # Brand
@@ -11,7 +13,6 @@ weight=1
 You can add multiple favicons by specifying them in `config.toml`
 
 ```toml
-    [extra]
     [extra.poly]
     favicon = [
         {rel = "icon", type = "image/x-icon", size = "", path = "/favicon.ico"},
@@ -25,7 +26,6 @@ You can add multiple favicons by specifying them in `config.toml`
 Name, app name, or brand name `app_name`
 
 ```toml
-    [extra]
     [extra.poly]
     app_name = "your app name"
 ```
@@ -33,7 +33,6 @@ Name, app name, or brand name `app_name`
 ## Logo
 
 ```toml
-    [extra]
     [extra.poly]
     logo = "/your-logo.png"
 ```
@@ -41,7 +40,6 @@ Name, app name, or brand name `app_name`
 ##  Include a font url
 
 ```toml
-    [extra]
     [extra.poly]
     font_url = "https://fonts.googleapis.com/css2?family=AR+One+Sans:wght@400;700&display=swap"
 ```
@@ -51,7 +49,6 @@ Name, app name, or brand name `app_name`
 Whether to include a webmanifest file and path to it.
 
 ```toml
-    [extra]
     [extra.poly]
     manifest = "/webmanifest.json"
 ```
@@ -61,7 +58,6 @@ Whether to include a webmanifest file and path to it.
 Fallback `og:image` (one for entire site) can be configured in your `config.toml` and must point to a static file
 
 ```toml
-    [extra]
     [extra.poly]
     og_image= "/og.png"
 ```

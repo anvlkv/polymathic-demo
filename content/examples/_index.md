@@ -1,6 +1,8 @@
 +++
 title="Examples"
 description="Find out theme features and explore customization examples"
+[extra.poly]
+use_taxonomies=["features"]
 +++
 
 ### Polymathic examples

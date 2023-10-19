@@ -2,6 +2,8 @@
 title="Hero images"
 description="Use images to emphasize your pages and sections"
 weight=7
+[taxonomies]
+features=["Rich content", "Customize"]
 +++
 
 # Hero images
@@ -10,7 +12,6 @@ Every **page** and **section** may have a hero image. Hero image is used by the 
 
 ```md
     +++
-    [extra]
     [extra.poly]
     hero="my-hero-image.png"
     +++
@@ -19,7 +20,6 @@ Every **page** and **section** may have a hero image. Hero image is used by the 
 Fallback `og:image` (one for entire site) can be configured in your `config.toml` and must point to a static file
     
 ```toml
-    [extra]
     [extra.poly]
     og_image= "/og.png"
 ```

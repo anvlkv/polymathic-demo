@@ -1,6 +1,8 @@
 +++
 title="Implementation"
 description="Showing section with a default tile"
+[taxonomies]
+features=["Rich content", "Customize", "Navigation"]
 +++
 
 ### `content/section/_index.md`
@@ -9,7 +11,6 @@ description="Showing section with a default tile"
    +++
     title="Section pop with hero"
     description="Hero section pop tile"
-    [extra]
     [extra.poly]
     hero="DALL-E-2023-10-18_18.46.38_jungle_tropic_happiness_painting_wax_pastel.png"
     pop=true

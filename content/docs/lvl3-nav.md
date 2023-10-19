@@ -2,6 +2,8 @@
 title="Shared taxonomies navigation"
 description="Advanced navigation with shared taxonomies"
 weight=10
+[taxonomies]
+features=["Navigation", "Advanced"]
 +++
 
 # Shared taxonomies (level 3)

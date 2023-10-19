@@ -9,6 +9,10 @@ build_search_index = false
 
 theme = "polymathic"
 
+taxonomies = [
+  { name="features" }
+]
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
@@ -23,7 +27,7 @@ menu_order=[
   "examples/_index.md",
 ]
 social_outlink=[
-  {href="https://github.com/anvlkv/polymathic-demo", title="this repo on GitHub"},
-  {href="https://github.com/anvlkv/polymathic", title="polymathic on GitHub"},
+  {href="https://github.com/anvlkv/polymathic-demo", title="Examples on GitHub"},
+  {href="https://github.com/anvlkv/polymathic", title="Polymathic on GitHub"},
   {href="https://a.nvlkv.xyz", title="Theme author"},
 ]

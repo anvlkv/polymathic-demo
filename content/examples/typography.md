@@ -1,6 +1,8 @@
 +++
 title="Typography"
 description="Preview of theme typography"
+[taxonomies]
+features=["Rich content", "Getting started"]
 +++
 
 Preview on this page is created using following code

@@ -1,6 +1,8 @@
 +++
 title="message"
 description="Bulma message component. A side note for your content"
+[taxonomies]
+features=["Rich content"]
 +++
 
 ```md

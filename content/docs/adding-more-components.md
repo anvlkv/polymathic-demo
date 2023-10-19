@@ -2,6 +2,8 @@
 title="More Bulma components"
 description="Include more or all Bulma components in your styles"
 weight=14
+[taxonomies]
+features=["Customize", "Advanced"]
 +++
 
 # More components
