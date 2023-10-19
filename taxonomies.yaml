@@ -1,0 +1,21 @@
+features: 
+  title: All features
+  description: Docs and examples of all polymathic features
+  content: |
+    ### All features
+
+    Build you Zola site with these polymathic features
+  sort_by: title
+  terms: 
+    - title: Getting started
+      description: Quick start with polymathic
+      content: |
+        ### Get started
+
+        Follow these steps to quickly build your customized site using [Zola](https://www.getzola.org/) and polymathic.
+      sort_by: "extra.quick_step"
+    - Default
+    - Navigation
+    - Rich content
+    - Forms
+    - Customize

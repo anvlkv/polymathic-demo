@@ -10,7 +10,7 @@ build_search_index = false
 theme = "polymathic"
 
 taxonomies = [
-  { name="features" }
+  { name="features", paginate_by = 9 }
 ]
 
 [markdown]

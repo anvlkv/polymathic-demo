@@ -2,6 +2,8 @@
 title="Global navigation"
 description="Customize navigation items on landing page and in global header"
 weight=8
+[extra]
+quick_step=4
 [taxonomies]
 features=["Getting started", "Navigation"]
 +++

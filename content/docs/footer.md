@@ -2,6 +2,8 @@
 title="Global footer"
 description="Footer content and out-links"
 weight=11
+[extra]
+quick_step=5
 [taxonomies]
 features=["Getting started", "Customize"]
 +++

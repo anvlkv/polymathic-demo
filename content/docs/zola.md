@@ -2,6 +2,8 @@
 title="Zola content"
 description="Default styles applied to your content"
 weight=2
+[extra]
+quick_step=2
 [taxonomies]
 features=["Getting started", "Rich content"]
 +++

@@ -2,6 +2,8 @@
 title="Brand"
 description="Customize your favicons, titles, and font"
 weight=1
+[extra]
+quick_step=3
 [taxonomies]
 features=["Getting started", "Customize"]
 +++
