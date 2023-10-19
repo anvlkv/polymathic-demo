@@ -20,7 +20,7 @@ highlight_code = true
 app_name="polymathic demo"
 menu_order=[
   "docs/_index.md",
-  "examples/_index.md"
+  "examples/_index.md",
 ]
 social_outlink=[
   {href="https://github.com/anvlkv/polymathic-demo", title="this repo on GitHub"},

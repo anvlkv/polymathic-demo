@@ -8,7 +8,7 @@ weight=14
 
 ## Import all
 
-This theme does not import all bulma components. Should you need more components, you may `@use` the `themes/polymathic/sass/all_bulma.scss`. If you're not using any style customization then simply link to `all_bulma.css` file. See [extending templates](./stles/#extending-templates).
+This theme does not import all bulma components. Should you need more components, you may `@use` the `themes/polymathic/sass/all_deps.scss`. If you're not using any style customization then simply link to `all_deps.css` file. See [extending templates](./styles.md/#extending-templates).
 
 ## Import components one by one
 

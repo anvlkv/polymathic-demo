@@ -15,6 +15,8 @@ This site is the docs & demo. This site itself uses the theme.
 
 This theme uses [Bulma](https://bulma.io/) scss framework, making the theme [styles highly customizable](/styles).
 
+This theme uses [Animate.css](https://animate.style) for animations.
+
 This theme adds minimal [Open Graph](https://ogp.me/) tags to every page `head`.
 
 Besides the styles, you can [customize navigation](/navigation), the theme relies on zola `[taxonomies]` and values you provide in `[extra][exta.poly]`.
