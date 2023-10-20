@@ -1,0 +1,9 @@
+@use "sass:map";
+
+$poly-config: (
+  "primary-color": gray,
+);
+
+@use "../themes/polymathic/sass/polymathic.scss" with (
+  $poly-config: $poly-config
+);
