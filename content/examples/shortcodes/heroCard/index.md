@@ -1,6 +1,8 @@
 +++
 title="heroCard"
 description="Emphasize your content."
+[extra]
+navigation_level=8
 [taxonomies]
 features=["Rich content", "Navigation"]
 +++

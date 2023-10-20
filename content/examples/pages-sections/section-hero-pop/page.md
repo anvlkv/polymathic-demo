@@ -3,6 +3,8 @@ title="Implementation"
 description="Showing section with a default tile"
 [taxonomies]
 features=["Rich content", "Customize", "Navigation"]
+[extra]
+navigation_level=7
 +++
 
 ### `content/section/_index.md`

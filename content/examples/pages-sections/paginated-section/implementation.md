@@ -2,6 +2,8 @@
 title="Implementation"
 description="Adding pagination"
 weight=0
+[extra]
+navigation_level=5
 [taxonomies]
 features=["Navigation", "Default"]
 +++

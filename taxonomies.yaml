@@ -10,12 +10,18 @@ features:
     - title: Getting started
       description: Quick start with polymathic
       content: |
-        ### Get started
+        ### Getting started
 
         Follow these steps to quickly build your customized site using [Zola](https://www.getzola.org/) and polymathic.
       sort_by: "extra.quick_step"
     - Default
-    - Navigation
+    - title: Navigation
+      description: Pull your content out of the maze.
+      content: |
+        ### Navigation
+
+        Navigation is one of the main focus points for polymathic. Build up and customize your Zola site navigation following these steps.
+      sort_by: "extra.navigation_level"
     - Rich content
     - Forms
     - Customize

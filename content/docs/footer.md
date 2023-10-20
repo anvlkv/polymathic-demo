@@ -4,8 +4,9 @@ description="Footer content and out-links"
 weight=11
 [extra]
 quick_step=5
+navigation_level=1
 [taxonomies]
-features=["Getting started", "Customize"]
+features=["Getting started", "Customize", "Navigation"]
 +++
 
 # Global footer

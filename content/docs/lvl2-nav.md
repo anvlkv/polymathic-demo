@@ -2,6 +2,8 @@
 title="Deep navigation"
 description="Customize navigation items on landing page and in global header submenus. Using Zola taxonomies"
 weight=9
+[extra]
+navigation_level=2
 [taxonomies]
 features=["Navigation"]
 +++

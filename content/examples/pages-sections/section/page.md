@@ -1,6 +1,8 @@
 +++
 title="Implementation"
 description="Showing section with a default tile"
+[extra]
+navigation_level=5
 [taxonomies]
 features=["Navigation", "Default"]
 +++
