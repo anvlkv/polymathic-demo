@@ -8,7 +8,7 @@ features=["Customize"]
 
 # Styles
 
-This theme uses [`scss-reset`](https://www.npmjs.com/package/scss-reset).
+This theme uses [`normalize-scss`](https://www.npmjs.com/package/normalize-scss).
 
 This theme uses [`animate.css`](https://www.npmjs.com/package/animate.css).
 
@@ -59,7 +59,7 @@ Finally override theme default templates. For example `templates/base.html`
 ```html
     {% extends "polymathic/templates/base.html" %}
     {% block page_style %}
-        <link rel="stylesheet" href="{{ get_url(path='your-file-name.css') | safe }}" />
+        <link rel="stylesheet" media="screen" href="{{ get_url(path='your-file-name.css') | safe }}" />
     {% endblock %}
 ```
 

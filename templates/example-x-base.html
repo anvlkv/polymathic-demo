@@ -44,4 +44,8 @@
   {{super()}}
 {% endblock %}
 
+{% block index_content %}
+  {{page.content | safe}}
+{% endblock %}
+
 {% block modals %} {%endblock%}
