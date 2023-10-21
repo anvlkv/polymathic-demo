@@ -8,4 +8,4 @@ hero="hero.png"
 
 ### Color customization
 
-This examples show several color customizations
+These examples show several color customizations. See code inside each page for details

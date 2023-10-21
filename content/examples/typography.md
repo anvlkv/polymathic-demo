@@ -28,9 +28,11 @@ quick_step=6
 
     > blockquote
 
-    Plain text
+    Plain text [simple link](/)
 
         code
+
+    
 ```
 
 # Typography title 1  
@@ -47,7 +49,7 @@ quick_step=6
 
 > blockquote
 
-Plain text
+Plain text [simple link](/)
 
     code
 
