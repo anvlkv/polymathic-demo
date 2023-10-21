@@ -17,4 +17,4 @@ The theme uses `title` and `description` properties from your content's front-ma
     +++
 ```
 
-Additional titles may be created from taxonomies names, this only happens when using [shared taxonomies](/navigation). The theme does it by turning `my_taxonomy` into `My Taxonomy`. If you use those, you may like to [customize how your taxonomies are](./taxonomies.md/#configuration-taxonomiesyaml) displayed.
+Additional titles may be created from taxonomies names, this only happens when using [shared taxonomies](/docs/lvl1-nav). The theme does it by turning `my_taxonomy` into `My Taxonomy`. If you use those, you may like to [customize how your taxonomies are](/docs/taxonomies/#configuration-taxonomiesyaml) displayed.

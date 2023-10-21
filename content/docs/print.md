@@ -10,7 +10,7 @@ features=["Customize", "Advanced"]
 
 This theme comes with basic support for print media. You can customize or override print styles `themes/polymathic/sass/print.scss`.
 
-See [styles for general approach](./styles.md).
+See [styles for general approach](/docs/styles).
 
 ```html
     {% extends "polymathic/templates/base.html" %}

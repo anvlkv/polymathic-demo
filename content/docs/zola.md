@@ -34,7 +34,7 @@ This theme applies minimal default styling to content from your site's `content/
 
 ## Bulma components
 
-Beyond that you can use Bulma components in your content. This theme does not import all of them by default. See [more components](/more-components). Components are aligned with the theme or [your configuration](/styles-config).
+Beyond that you can use Bulma components in your content. This theme does not import all of them by default. See [more components](/docs/adding-more-components). Components are aligned with the theme or [your configuration](/docs/styles).
 
 ```md
     +++

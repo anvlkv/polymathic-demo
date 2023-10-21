@@ -4,7 +4,7 @@ description="content/_index.md and templates/index.html"
 weight=3
 +++
 
-Theme builds landing page using title, description and contents from `content/_index.md`, extended version of site [global navigation](/navigation).
+Theme builds landing page using title, description and contents from `content/_index.md`, expanded version of site [global navigation](/docs/lvl1-nav) and [deep navigation](/docs/lvl2-nav).
 
 For example:
 

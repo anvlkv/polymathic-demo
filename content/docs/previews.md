@@ -10,7 +10,7 @@ features=["Customize"]
 
 This theme renders previews of subsections and pages using its `sections.html` template.
 
-If page or section defines a [hero image](./hero-images/#hero-images) it will be used for thumbnail as well.
+If page or section defines a [hero image](/docs/hero-images/#hero-images) it will be used for thumbnail as well.
 
 ## Configure for entire section
 
