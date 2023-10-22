@@ -23,13 +23,20 @@ You can add multiple favicons by specifying them in `config.toml`
     ]
 ```
 
-## Name
+## Title
 
-Name, app name, or brand name `app_name`
+polymathic uses your `title` in site title. Simply the "Title" on `index.html` page and "Page title | Title" on any internal internal page or section.
 
 ```toml
-    [extra.poly]
-    app_name = "your app name"
+    title = "your app name"
+```
+
+## Description
+
+polymathic uses your `description` in site description if no page or section description is provided
+
+```toml
+    description = "your app name"
 ```
 
 ## Logo
