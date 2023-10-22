@@ -1,6 +1,8 @@
 # The URL the site will be built for
 base_url = "https://main--polymathic-demo.netlify.app"
 
+
+title="polymathic demo"
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
@@ -21,7 +23,6 @@ highlight_code = true
 [extra]
 # Put all your custom variables here
 [extra.poly]
-app_name="polymathic demo"
 menu_order=[
   "docs/_index.md",
   "examples/_index.md",
