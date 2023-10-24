@@ -32,11 +32,11 @@ $poly-config: (
 
 ```html
 
-{%/* import "polymathic/templates/macros.html" as macros */%}
+{%/* import "polymathic/templates/macros/util.html" as util */%}
 {%/* extends "polymathic/templates/index.html" */%}
 
 {%/* block page_meta */%}
-  {{/* macros::content_meta(content=page) */}}
+  {{/* util::content_meta(content=page) */}}
 {%/* endblock */%}
 
 {%/* block page_style */%}

@@ -8,7 +8,7 @@ features=["Rich content", "Customize", "Navigation"]
 navigation_level=10
 [extra.poly]
 hero="DALL_E_2023-10-17_23.20.14_-_cherry-cake_painting.png"
-banner=true
+thumbnail="banner"
 pop=true
 +++
 
@@ -18,7 +18,8 @@ pop=true
     description="A banner tile tile with hero image"
     [extra.poly]
     hero="DALL_E_2023-10-17_23.20.14_-_cherry-cake_painting.png"
-    weight=4
+    thumbnail="banner"
+    pop=true
     +++
 
     ```md
@@ -27,16 +28,9 @@ pop=true
     description="A banner tile tile with hero image"
     [extra.poly]
     hero="DALL_E_2023-10-17_23.20.14_-_cherry-cake_painting.png"
-    weight=4
+    thumbnail="banner"
+    pop=true
     +++
 
-    ```md
-        +++
-        title="Tile with hero"
-        description="A tile with hero image"
-        [extra]
-        [extra.poly]
-        hero="DALL_E_2023-10-17_23.20.14_-_cherry-cake_painting.png"
-        +++
     ```
 ```

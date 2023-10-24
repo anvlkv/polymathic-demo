@@ -8,7 +8,7 @@ features=["Rich content", "Customize", "Navigation"]
 navigation_level=7
 [extra.poly]
 hero="DALL_E_2023-10-17_23.20.14_-_cherry-cake_painting.png"
-banner=true
+thumbnail="banner"
 +++
 
 ```md
@@ -18,7 +18,7 @@ banner=true
     weight=5
     [extra.poly]
     hero="DALL_E_2023-10-17_23.20.14_-_cherry-cake_painting.png"
-    banner=true
+    thumbnail="banner"
     +++
 
     ```md
@@ -29,7 +29,7 @@ banner=true
         [extra]
         [extra.poly]
         hero="DALL_E_2023-10-17_23.20.14_-_cherry-cake_painting.png"
-        banner=true
+        thumbnail="banner"
         +++
     ```
 ```
