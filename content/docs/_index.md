@@ -3,7 +3,7 @@ title="Docs"
 description="Configure and customize your theme"
 sort_by="weight"
 [extra.poly]
-page_block = true
+page_thumbnails="block"
 use_taxonomies=["features"]
 +++
 

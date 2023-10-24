@@ -1,6 +1,6 @@
 +++
-title="Block pop with hero"
-description="A pop block tile with hero image"
+title="Block with hero"
+description="A block tile with hero image"
 weight=10
 [taxonomies]
 features=["Rich content", "Customize", "Navigation"]
@@ -8,27 +8,35 @@ features=["Rich content", "Customize", "Navigation"]
 navigation_level=8
 [extra.poly]
 hero="DALL_E_2023-10-17_23.20.14_-_cherry-cake_painting.png"
-block=true
+thumbnail="block"
 +++
 
 ```md
     +++
-    title="Banner tile with hero"
-    description="A banner tile tile with hero image"
-    weight=4
+    title="Block with hero"
+    description="A block tile with hero image"
+    weight=10
+    [taxonomies]
+    features=["Rich content", "Customize", "Navigation"]
+    [extra]
+    navigation_level=8
     [extra.poly]
     hero="DALL_E_2023-10-17_23.20.14_-_cherry-cake_painting.png"
-    block=true
+    thumbnail="block"
     +++
 
     ```md
-    +++
-    title="Banner tile with hero"
-    description="A banner tile tile with hero image"
-    weight=4
-    [extra.poly]
-    hero="DALL_E_2023-10-17_23.20.14_-_cherry-cake_painting.png"
-    block=true
-    +++
+        +++
+        title="Block with hero"
+        description="A block tile with hero image"
+        weight=10
+        [taxonomies]
+        features=["Rich content", "Customize", "Navigation"]
+        [extra]
+        navigation_level=8
+        [extra.poly]
+        hero="DALL_E_2023-10-17_23.20.14_-_cherry-cake_painting.png"
+        thumbnail="block"
+        +++
     ```
 ```
