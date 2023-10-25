@@ -32,3 +32,5 @@ social_outlink=[
   {href="https://github.com/anvlkv/polymathic", title="Polymathic on GitHub"},
   {href="https://a.nvlkv.xyz", title="Theme author"},
 ]
+og_image="/screenshot.png"
+license="license.md"

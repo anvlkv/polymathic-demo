@@ -1,3 +1,8 @@
++++
+title="MIT © 2023 Aleksandr Novolokov (a.nvlkv)"
+description="Polymathic, theme design, and its implementation are licensed under the MIT License"
++++
+
 The MIT License (MIT)
 
 Copyright (c) 2023 Aleksandr Novolokov

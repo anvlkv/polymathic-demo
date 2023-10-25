@@ -13,7 +13,7 @@ features=["Getting started", "Customize", "Navigation"]
 
 Site global footer displays expanded version of the complete site navigation plus optional out-links.
 
-## Footer out-links
+## Social out-links
 
 You can add social out-links and more to your global footer. In your `config.toml` add:
 
@@ -33,4 +33,13 @@ To add an icons to links in footer add an [icon font](https://bulma.io/documenta
     social_outlink = [
         {href="https://www.linkedin.com/", title="LinkedIn", icon="fas fa-linkedin"},
     ]
+```
+
+## Copyright
+
+You can add optional license page and link to it in your footer.
+
+```toml
+    [extra.poly]
+    license="license.md"
 ```
