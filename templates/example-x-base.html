@@ -46,6 +46,13 @@
 
 {% block index_content %}
   {{page.content | safe}}
+  {#<main class="poly-page-content">
+    <section class="animate__animated animate__fadeIn animate__delay-1s animate__faster">
+      <article class="poly-page-main poly-container">
+        {% include "partials/placeholder.html" %}
+      </article>
+    </section>
+  </main>#}
 {% endblock %}
 
 {% block modals %} {%endblock%}
