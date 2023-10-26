@@ -1,5 +1,6 @@
 {% extends "example-x-base.html" %}
 
 {% block example_style %}
-  <link rel="stylesheet" media="screen" href="{{ get_url(path='example-0-white.css') | safe }}" />
+  <link rel="stylesheet" media="screen and (prefers-color-scheme: light)" href="{{ get_url(path='example-0-white.css') | safe }}" />
+  <link rel="stylesheet" media="screen and (prefers-color-scheme: dark)" href="{{ get_url(path='dark/example-0-white.css') | safe }}" />
 {% endblock %}

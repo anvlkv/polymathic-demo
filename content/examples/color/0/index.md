@@ -85,6 +85,7 @@ $poly-config: (
 {%/* extends "example-base.html" */%}
 
 {%/* block example_style */%}
-  <link rel="stylesheet" media="screen" href="{{/* get_url(path='my-color.css') | safe */}}" />
+  <link rel="stylesheet" media="screen and (prefers-color-scheme: light)" href="{{ get_url(path='your-file-name.css') | safe }}" />
+  <link rel="stylesheet" media="screen and (prefers-color-scheme: dark)" href="{{ get_url(path='your-file-name-dark.css') | safe }}" />
 {%/* endblock */%}
 ```

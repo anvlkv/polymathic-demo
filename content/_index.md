@@ -24,8 +24,8 @@ Besides the styles, you can [customize navigation](/docs/lvl1-nav), the theme re
 You can quickly deploy the theme to [netlify](https://docs.netlify.com/site-deploys/create-deploys/), theme comes with a config file.
 
 <figure style="max-width:50vw;">
-  <img src="/screenshot.png">
-  <figcaption>
+  <img src="/screenshot.png" alt="composition of screenshots of polymathic theme in multiple colors on desktop, mobile, and print">
+  <figcaption class="has-text-centered">
     🎨🔬🚀🤖🌍🎯🎶📚🧠🌞🔮🔍🌈🌟🏆🚴‍♂️🧲
   </figcaption>
 </figure>

@@ -2,5 +2,6 @@
 
 
 {% block example_style %}
-  <link rel="stylesheet" media="screen" href="{{ get_url(path='example-5-magenta.css') | safe }}" />
+  <link rel="stylesheet" media="screen and (prefers-color-scheme: light)" href="{{ get_url(path='example-5-magenta.css') | safe }}" />
+  <link rel="stylesheet" media="screen and (prefers-color-scheme: dark)" href="{{ get_url(path='dark/example-5-magenta.css') | safe }}" />
 {% endblock %}
