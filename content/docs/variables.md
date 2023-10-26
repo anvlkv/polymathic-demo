@@ -8,7 +8,7 @@ features=["Customize", "Default"]
 
 # Sass variables
 
-See [styles config](/docs/styles#styles-config) for more details on customization. Where's config value not provided colors are further adjusted automatically by finding light and dark variants of accessible colors. 
+See [styles config](/docs/styles#styles-config) for more details on customization. Where's config value not provided colors are further adjusted automatically by finding light and dark variants of accessible colors (implementation based on [jhogue's automated-a11y-sass](https://github.com/jhogue/automated-a11y-sass/blob/master/a11y-color.scss)). 
 
 ## Default
 
