@@ -3,12 +3,12 @@ title="Variables"
 description="All Sass variables"
 weight=14
 [taxonomies]
-features=["Customize"]
+features=["Customize", "Default"]
 +++
 
 # Sass variables
 
-See [styles config](/docs/styles#styles-config) for more details on customization.
+See [styles config](/docs/styles#styles-config) for more details on customization. Where's config value not provided colors are further adjusted automatically by finding light and dark variants of accessible colors. 
 
 ## Default
 
