@@ -2,7 +2,7 @@
 title="field"
 description="Bulma form field component"
 [taxonomies]
-features=["Rich content", "Forms"]
+features=["Forms", "Rich content"]
 +++
 
 ```md

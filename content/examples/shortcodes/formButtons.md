@@ -2,7 +2,7 @@
 title="formButton"
 description="Submit and reset buttons for your form"
 [taxonomies]
-features=["Rich content", "Forms"]
+features=["Forms", "Rich content"]
 +++
 
 ```md

@@ -2,7 +2,7 @@
 title="Typography"
 description="Preview of theme typography"
 [taxonomies]
-features=["Rich content", "Getting started", "Default"]
+features=["Default", "Rich content", "Getting started"]
 [extra]
 quick_step=6
 +++

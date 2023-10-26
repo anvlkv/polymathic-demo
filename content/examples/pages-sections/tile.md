@@ -2,7 +2,7 @@
 title="Default tile"
 weight=8
 [taxonomies]
-features=["Navigation", "Default"]
+features=["Default", "Navigation"]
 [extra]
 navigation_level=5
 +++
