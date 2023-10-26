@@ -3,7 +3,7 @@ title="Shortcodes"
 description="Shortcodes provided with the theme"
 weight=12
 [taxonomies]
-features=["Rich content"]
+features=["Rich content", "Forms"]
 +++
 
 # Shortcodes
@@ -48,6 +48,15 @@ When used with images `alt` attribute is either provided to the shortcode or der
     ### supports markdown
 
     {%/* end */%}
+```
+
+## assetGallery
+
+Renders grid with all assets of current page or section
+
+```md
+
+    {{assetGallery(exclude=["some.png"],titles=false)}}
 ```
 
 ## field
