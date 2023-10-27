@@ -5,6 +5,9 @@ sort_by="weight"
 [extra.poly]
 page_thumbnails="block"
 use_taxonomies=["features"]
+[extra.poly.page_asides]
+toc=true
+content="On this page:"
 +++
 
 ### polymathic docs
