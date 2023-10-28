@@ -33,7 +33,8 @@ This theme supports customizing taxonomies by loading additional config. You can
         ### Some title
 
         Content supports markdown
-      sort_by: title # default sort_by for pages when showing this taxonomy see available page variable here https://www.getzola.org/documentation/templates/pages-sections/
+      sort_by: path # default sort_by for pages when showing this taxonomy see available page variable here https://www.getzola.org/documentation/templates/pages-sections/
+      reverse: false # whether to apply | reverse filter to sorted pages
       terms: # order of terms, specify only top ones or all
         - Term name # select term by name for ordering
         - title: Another term # select term by name for ordering and customization
@@ -43,6 +44,7 @@ This theme supports customizing taxonomies by loading additional config. You can
 
              Content supports markdown
           sort_by: "extra.my_property" # override default sort for specific term
+          reverse: true # override sort_by reverse
     another_taxonomy: # and so on...
       title: Custom title 2 
 ```
