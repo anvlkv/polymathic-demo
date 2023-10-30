@@ -2,8 +2,6 @@
 title="Black"
 template="example-8-index.html"
 weight=8
-[taxonomies]
-features=["Customize"]
 [extra.poly]
 hero="hero.png"
 +++
