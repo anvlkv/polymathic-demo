@@ -56,7 +56,7 @@ Renders grid with all assets of current page or section
 
 ```md
 
-    {{assetGallery(exclude=["some.png"],titles=false)}}
+    {{/* assetGallery(exclude=["some.png"],titles=false) */}}
 ```
 
 ## field
