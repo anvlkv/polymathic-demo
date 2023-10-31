@@ -3,7 +3,7 @@ title="Styles"
 description="Configure and extend the theme styles"
 weight=13
 [taxonomies]
-features=["Customize"]
+features=["Customize", "Getting started"]
 +++
 
 # Styles
@@ -23,15 +23,11 @@ First you would need to create a config map. For example `sass/_config.scss`. Se
     @use "sass:map";
 
     $poly-config: (
-        'font-family': 'Your font', serif,
-        'primary': red,
+        font-family: ('Your font', serif),
+        poly-primary: red,
     );
 
-    $poly-config-dark: (
-        text-darkness: 8%,
-        background-lightness: 7%,
-        primary: red
-    );
+    $poly-config-dark: $poly-config;
 ```
 
 ## Adding font
