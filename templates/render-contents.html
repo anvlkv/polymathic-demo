@@ -1,0 +1,12 @@
+{% extends "polymathic/templates/page.html" %} 
+
+{% block page_content %}
+  <article class="poly-page-main poly-container">
+    {% set data = load_data(path="/content/"~page.relative_path, format="plain") %}
+    <pre class="language-md">
+      <code class="language-md">
+{{data | safe}}
+      </code>
+    </pre>
+  </article>
+{% endblock %}

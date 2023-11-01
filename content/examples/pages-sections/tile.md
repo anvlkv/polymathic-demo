@@ -7,14 +7,3 @@ features=["Default", "Navigation"]
 navigation_level=5
 +++
 
-```md
-    +++
-    title="Default tile"
-    +++
-
-    ```md
-        +++
-        title="Default tile"
-        +++
-    ```
-```
