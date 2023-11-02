@@ -5,12 +5,23 @@ template="timeline.html"
 page_template="render-contents.html"
 [taxonomies]
 features=["Timeline", "Navigation", "Advanced"]
+[extra.poly.page_asides]
+content="""
+# Timeline
+
+This page demonstrates timeline entry.
+
+See [timeline docs](/docs/timeline). 
+
+See [parent timeline](/examples/timeline). 
+"""
 [extra.poly.timeline]
 format="%b %Y"
 content=[
   "examples/timeline/_index.md"
 ]
-lazy_batch={preview=3, batch=6}
+offset={count=1, url="#", text="Dummy offset"}
+limit={count=10, url="#", text="Dummy limit"}
 +++
 
 # Timeline
@@ -28,6 +39,8 @@ This page demonstrates [timeline](/docs/timeline).
     content=[
       "examples/timeline/_index.md"
     ]
+    offset={count=4, url="/", text="Dummy offset"}
+    limit={count=4, url="/", text="Dummy limit}
     +++
 
     # Timeline

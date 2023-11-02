@@ -19,6 +19,8 @@ This theme adds minimal [Open Graph](https://ogp.me/) tags to every page `head`.
 
 Besides the styles, you can [customize navigation](/docs/lvl1-nav), the theme relies on zola `[taxonomies]` and values you provide in `[extra.poly]`.
 
+Theme is extensible by overriding and extending its `templates/`, `templates/partials/`, `templates/macros/`, and `block`s of those templates.
+
 You can quickly deploy the theme to [netlify](https://docs.netlify.com/site-deploys/create-deploys/), theme comes with a config file.
 
 <figure style="max-width:50vw;">

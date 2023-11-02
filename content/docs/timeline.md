@@ -64,20 +64,23 @@ See [chrono](https://docs.rs/chrono/0.4.31/chrono/format/strftime/index.html) fo
     +++
 ```
 
-### Batching
+### Limiting and offsetting
 
-Prevent loading too many images in long timeline (content is still present on the page).
+Limit the size of timeline or offset it.
 
-`[extra.poly.timeline] lazy_batch` adds "Load more" button to end of the timeline preview. You can configure size of preview, size of batch, button text.
+`[extra.poly.timeline] limit` limits the number of entries in timeline and adds a button to end of the timeline. You can configure count, text, and next url.
 
-Requires javaScript enabled.
+`[extra.poly.timeline] offset` offsets the start of entries in timeline and adds a button before the timeline. You can configure count, text, and previous url.
+
+You would need to define separate content entries for each segment of the timeline
 
 ```md
     +++
     title="Timeline title"
     template="timeline.html"
     [extra.poly.timeline]
-    lazy_batch={preview=5, batch=10, text="Load more..."}
+    offset={ count=4, url="/timeline/0", text="previous" }
+    limit={ count=4, url="/timeline/2", text="next" }
     +++
 ```
 
